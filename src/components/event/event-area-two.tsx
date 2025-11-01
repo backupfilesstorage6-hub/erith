@@ -32,7 +32,7 @@ export default function EventAreaTwo() {
                     />
                   </Link>
                   <div className="tp-event-3-date">
-                    <span>{item.date.day}</span>
+                    {/* <span>{item.date.day}</span> */}
                     <p>{item.date.month}</p>
                   </div>
                 </div>
